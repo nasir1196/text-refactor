@@ -1,5 +1,5 @@
 # Text Refactor
-## [Live Refactor](https://hello.com)
+## [Live Refactor](https://text-refactor.vercel.app/)
 * Using React
 * Pure JavaScript
 * Totally Functional Component
